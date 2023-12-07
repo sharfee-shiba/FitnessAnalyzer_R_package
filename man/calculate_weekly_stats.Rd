@@ -31,7 +31,3 @@ Aggregates stats to create weekly totals and averages. This method can be
 used to aggregate the data for multiple users, or can be filtered for a 
 single user.
 }
-\examples{
-weekly_steps <- calculate_weekly_stats(data, "TotalSteps");
-weekly_very_active <- calculate_weekly_stats(data,  "VeryActiveMinutes", filter_id=1503960366);
-}

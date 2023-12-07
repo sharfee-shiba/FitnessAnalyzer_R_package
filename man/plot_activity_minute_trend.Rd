@@ -40,6 +40,3 @@ This is a specialized plot which shows the trend of time spent in various
 intensity states (sedentary, lightly active, fairly active, very active).
 It is intended to highlight activity trends over time.
 }
-\examples{
-plot_activity_minute_trend(data, 1503960366)
-}

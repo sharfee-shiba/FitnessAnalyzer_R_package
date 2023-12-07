@@ -30,7 +30,3 @@ A list of plots of the total and average weekly trend, respectively.
 Calculates the weekly stats for the specified column and plots it against the 
 week number to provide a picture of the trend.
 }
-\examples{
-plots <- plot_weekly_trend(weight_log, "WeightPounds", 6962181067, date_col = "Date");
-plots <- plot_weekly_trend(data, "Calories", 6962181067);
-}
