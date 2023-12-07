@@ -3,3 +3,7 @@ Type: Package
 Title: Analyze Fitbit workout data
 Version: 1.0.0
 RoxygenNote: 7.2.3
+License: MIT + file LICENSE
+Description: A package for analyzing fitness data.
+Author: Sharfee Shiban <sharfee.shiban@gmail.com>
+Maintainer: Sharfee Shiban <sharfee.shiban@gmail.com>
