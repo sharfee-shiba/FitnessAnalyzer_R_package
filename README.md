@@ -8,7 +8,12 @@ You can install the released version of FitnessAnalyzer from GitHub with:
 
 ```
 library(devtools)
-install_github("sharfee-shiba/FitnessAnalyzer_R_package")
+
+install_github("sharfee-shiba/FitnessAnalyzer_R_package", build_vignettes=TRUE)
+
+# to not build vignettes
+# install_github("sharfee-shiba/FitnessAnalyzer_R_package")
+
 library(FitnessAnalyzer)
 ```
 
